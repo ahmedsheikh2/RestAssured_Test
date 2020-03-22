@@ -1,0 +1,3 @@
+02:10:15.969 [main] INFO  com.apitest.validation.smokeTest - Delete Pet Test Case has Passes Successfully
+02:10:15.979 [main] INFO  com.apitest.validation.smokeTest - Find Pet By Status Test Case Started
+02:10:17.442 [main] INFO  com.apitest.validation.smokeTest - Find Pet By Status Test Case has Passes Successfully

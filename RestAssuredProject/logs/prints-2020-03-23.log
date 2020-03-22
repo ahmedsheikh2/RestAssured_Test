@@ -1,0 +1,6 @@
+02:10:13.299 [main] INFO  com.apitest.validation.smokeTest - Add Pet Test Case has Passes Successfully
+02:10:13.315 [main] INFO  com.apitest.validation.smokeTest - Add Pet By Status Test Case Started
+02:10:14.173 [main] INFO  com.apitest.validation.smokeTest - Add Pet Test Case has Passes Successfully
+02:10:14.176 [main] INFO  com.apitest.validation.smokeTest - Find Pet Test Case Started
+02:10:15.052 [main] INFO  com.apitest.validation.smokeTest - Find Pet Test Case has Passes Successfully
+02:10:15.053 [main] INFO  com.apitest.validation.smokeTest - Delete Pet Test Case Started

@@ -1,0 +1,6 @@
+23:40:37.145 [main] INFO  Assignment.smokeTest - Delete Pet Test Case Started
+23:40:38.218 [main] INFO  Assignment.smokeTest - Delete Pet Test Case has Passes Successfully
+23:56:39.447 [main] INFO  Assignment.smokeTest - Add Pet By Status Test Case Started
+23:56:43.157 [main] INFO  Assignment.smokeTest - Add Pet Test Case has Passes Successfully
+23:56:43.160 [main] INFO  Assignment.smokeTest - Find Pet By Status Test Case Started
+23:56:48.268 [main] INFO  Assignment.smokeTest - Find Pet By Status Test Case has Passes Successfully
